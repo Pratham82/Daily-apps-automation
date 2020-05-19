@@ -46,7 +46,7 @@ def run_apps():
 
 
 # resizing canvas
-canvas = tk.Canvas(root,height=500,width =450, bg="#007FC6")
+canvas = tk.Canvas(root,height=500,width =500, bg="#007FC6")
 #007FC6
 
 # attaching the canvas to root
@@ -54,7 +54,7 @@ canvas.pack()
 
 # creating frame
 frame = tk.Frame(root, bg="white")
-frame.place(relwidth=0.8, relheight=0.8,relx=0.1,rely= 0.1 )
+frame.place(relwidth=0.7, relheight=0.7,relx=0.15,rely= 0.1 )
 
 # creating buttons
 open_file = tk.Button(root,text="Open file", padx=10,pady=5,fg="white",

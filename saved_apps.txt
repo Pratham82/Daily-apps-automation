@@ -1,0 +1,1 @@
+C:/Program Files/Microsoft VS Code/Code.exe,C:/Program Files (x86)/Google/Chrome/Application/chrome.exe,C:/Program Files/ConEmu/ConEmu64.exe,C:/Users/malip/AppData/Roaming/Spotify/Spotify.exe,
