@@ -15,7 +15,7 @@ Demo:
 
 ### Run file
 
-###  `python open.py`
+###  `python open_apps.py`
 ### `git config --global user.name 'Username'`
 ### Openp apps.exe file and click on run apps
 ### You can also modify savedapps.txt add or remove paths to open apps.
