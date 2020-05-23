@@ -15,9 +15,9 @@ Demo:
 
 ### Run file
 
-### For running though command line
-### `python open_apps.py`
+#### For running though command line
+- `python open_apps.py`
 
-### Directly using via file explorer
-### -  double click on open_apps.py 
-### You can also modify savedapps.txt add or remove paths to open apps.
+#### Directly using via file explorer
+-  double click on open_apps.py 
+#### You can also modify savedapps.txt add or remove paths to open apps.
